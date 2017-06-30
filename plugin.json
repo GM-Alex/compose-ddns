@@ -2,5 +2,5 @@
   "name": "docker-dns",
   "description": "Starts a DNS server for specified containers",
   "version": "0.0.1",
-  "github_repo": "GM-Alex/compose-bi"
+  "github_repo": "GM-Alex/compose-ddns"
 }
