@@ -1,0 +1,6 @@
+{
+  "name": "docker-dns",
+  "description": "Starts a DNS server for specified containers",
+  "version": "0.0.0",
+  "github_repo": "GM-Alex/compose-bi"
+}
